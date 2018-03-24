@@ -1,0 +1,12 @@
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/bin/Debug/netcoreapp2.0/MonitoringApp.deps.json
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/bin/Debug/netcoreapp2.0/MonitoringApp.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/bin/Debug/netcoreapp2.0/MonitoringApp.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/bin/Debug/netcoreapp2.0/MonitoringApp.dll
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/bin/Debug/netcoreapp2.0/MonitoringApp.pdb
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/bin/Debug/netcoreapp2.0/MonitoringLib.dll
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/bin/Debug/netcoreapp2.0/MonitoringLib.pdb
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/obj/Debug/netcoreapp2.0/MonitoringApp.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/obj/Debug/netcoreapp2.0/MonitoringApp.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/obj/Debug/netcoreapp2.0/MonitoringApp.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/obj/Debug/netcoreapp2.0/MonitoringApp.dll
+/home/aguimar/devel/repos/code/chapter13/MonitoringApp/obj/Debug/netcoreapp2.0/MonitoringApp.pdb

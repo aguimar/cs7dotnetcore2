@@ -1,0 +1,10 @@
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/bin/Debug/netcoreapp2.0/LinqWithEFCore.deps.json
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/bin/Debug/netcoreapp2.0/LinqWithEFCore.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/bin/Debug/netcoreapp2.0/LinqWithEFCore.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/bin/Debug/netcoreapp2.0/LinqWithEFCore.dll
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/bin/Debug/netcoreapp2.0/LinqWithEFCore.pdb
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.dll
+/home/aguimar/devel/repos/code/chapter12/LinqWithEFCore/obj/Debug/netcoreapp2.0/LinqWithEFCore.pdb

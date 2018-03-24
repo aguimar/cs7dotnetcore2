@@ -1,0 +1,10 @@
+/home/aguimar/devel/repos/code/chapter08/Internationalization/obj/Debug/netcoreapp2.0/Internationalization.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter08/Internationalization/obj/Debug/netcoreapp2.0/Internationalization.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter08/Internationalization/obj/Debug/netcoreapp2.0/Internationalization.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter08/Internationalization/bin/Debug/netcoreapp2.0/Internationalization.deps.json
+/home/aguimar/devel/repos/code/chapter08/Internationalization/bin/Debug/netcoreapp2.0/Internationalization.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter08/Internationalization/bin/Debug/netcoreapp2.0/Internationalization.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter08/Internationalization/bin/Debug/netcoreapp2.0/Internationalization.dll
+/home/aguimar/devel/repos/code/chapter08/Internationalization/bin/Debug/netcoreapp2.0/Internationalization.pdb
+/home/aguimar/devel/repos/code/chapter08/Internationalization/obj/Debug/netcoreapp2.0/Internationalization.dll
+/home/aguimar/devel/repos/code/chapter08/Internationalization/obj/Debug/netcoreapp2.0/Internationalization.pdb

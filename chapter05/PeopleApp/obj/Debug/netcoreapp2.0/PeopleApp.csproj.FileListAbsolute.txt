@@ -1,0 +1,12 @@
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.deps.json
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.dll
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PeopleApp.pdb
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PacktLibrary.dll
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/bin/Debug/netcoreapp2.0/PacktLibrary.pdb
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.dll
+/home/aguimar/devel/repos/code/chapter05/PeopleApp/obj/Debug/netcoreapp2.0/PeopleApp.pdb

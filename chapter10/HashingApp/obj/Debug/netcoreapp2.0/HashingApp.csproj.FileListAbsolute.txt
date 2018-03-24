@@ -1,0 +1,12 @@
+/home/aguimar/devel/repos/code/chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.deps.json
+/home/aguimar/devel/repos/code/chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.dll
+/home/aguimar/devel/repos/code/chapter10/HashingApp/bin/Debug/netcoreapp2.0/HashingApp.pdb
+/home/aguimar/devel/repos/code/chapter10/HashingApp/bin/Debug/netcoreapp2.0/CryptographyLib.dll
+/home/aguimar/devel/repos/code/chapter10/HashingApp/bin/Debug/netcoreapp2.0/CryptographyLib.pdb
+/home/aguimar/devel/repos/code/chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.dll
+/home/aguimar/devel/repos/code/chapter10/HashingApp/obj/Debug/netcoreapp2.0/HashingApp.pdb

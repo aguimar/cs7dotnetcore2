@@ -1,0 +1,8 @@
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/bin/Debug/netstandard2.0/MonitoringLib.deps.json
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/bin/Debug/netstandard2.0/MonitoringLib.dll
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/bin/Debug/netstandard2.0/MonitoringLib.pdb
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.dll
+/home/aguimar/devel/repos/code/chapter13/MonitoringLib/obj/Debug/netstandard2.0/MonitoringLib.pdb

@@ -1,0 +1,12 @@
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/bin/Debug/netcoreapp2.0/RandomizingApp.deps.json
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/bin/Debug/netcoreapp2.0/RandomizingApp.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/bin/Debug/netcoreapp2.0/RandomizingApp.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/bin/Debug/netcoreapp2.0/RandomizingApp.dll
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/bin/Debug/netcoreapp2.0/RandomizingApp.pdb
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/bin/Debug/netcoreapp2.0/CryptographyLib.dll
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/bin/Debug/netcoreapp2.0/CryptographyLib.pdb
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/obj/Debug/netcoreapp2.0/RandomizingApp.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/obj/Debug/netcoreapp2.0/RandomizingApp.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/obj/Debug/netcoreapp2.0/RandomizingApp.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/obj/Debug/netcoreapp2.0/RandomizingApp.dll
+/home/aguimar/devel/repos/code/chapter10/RandomizingApp/obj/Debug/netcoreapp2.0/RandomizingApp.pdb

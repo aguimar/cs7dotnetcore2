@@ -1,0 +1,10 @@
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/obj/Debug/netcoreapp2.0/WorkWithSerialization.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/obj/Debug/netcoreapp2.0/WorkWithSerialization.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/obj/Debug/netcoreapp2.0/WorkWithSerialization.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/bin/Debug/netcoreapp2.0/WorkWithSerialization.deps.json
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/bin/Debug/netcoreapp2.0/WorkWithSerialization.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/bin/Debug/netcoreapp2.0/WorkWithSerialization.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/bin/Debug/netcoreapp2.0/WorkWithSerialization.dll
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/bin/Debug/netcoreapp2.0/WorkWithSerialization.pdb
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/obj/Debug/netcoreapp2.0/WorkWithSerialization.dll
+/home/aguimar/devel/repos/code/chapter09/WorkWithSerialization/obj/Debug/netcoreapp2.0/WorkWithSerialization.pdb

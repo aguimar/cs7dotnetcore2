@@ -1,0 +1,12 @@
+/home/aguimar/devel/repos/code/chapter10/SigningApp/bin/Debug/netcoreapp2.0/SigningApp.deps.json
+/home/aguimar/devel/repos/code/chapter10/SigningApp/bin/Debug/netcoreapp2.0/SigningApp.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter10/SigningApp/bin/Debug/netcoreapp2.0/SigningApp.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter10/SigningApp/bin/Debug/netcoreapp2.0/SigningApp.dll
+/home/aguimar/devel/repos/code/chapter10/SigningApp/bin/Debug/netcoreapp2.0/SigningApp.pdb
+/home/aguimar/devel/repos/code/chapter10/SigningApp/bin/Debug/netcoreapp2.0/CryptographyLib.dll
+/home/aguimar/devel/repos/code/chapter10/SigningApp/bin/Debug/netcoreapp2.0/CryptographyLib.pdb
+/home/aguimar/devel/repos/code/chapter10/SigningApp/obj/Debug/netcoreapp2.0/SigningApp.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter10/SigningApp/obj/Debug/netcoreapp2.0/SigningApp.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter10/SigningApp/obj/Debug/netcoreapp2.0/SigningApp.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter10/SigningApp/obj/Debug/netcoreapp2.0/SigningApp.dll
+/home/aguimar/devel/repos/code/chapter10/SigningApp/obj/Debug/netcoreapp2.0/SigningApp.pdb

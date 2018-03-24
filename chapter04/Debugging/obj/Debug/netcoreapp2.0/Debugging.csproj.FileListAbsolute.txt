@@ -1,0 +1,10 @@
+/home/aguimar/devel/repos/code/chapter04/Debugging/bin/Debug/netcoreapp2.0/Debugging.deps.json
+/home/aguimar/devel/repos/code/chapter04/Debugging/bin/Debug/netcoreapp2.0/Debugging.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter04/Debugging/bin/Debug/netcoreapp2.0/Debugging.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter04/Debugging/bin/Debug/netcoreapp2.0/Debugging.dll
+/home/aguimar/devel/repos/code/chapter04/Debugging/bin/Debug/netcoreapp2.0/Debugging.pdb
+/home/aguimar/devel/repos/code/chapter04/Debugging/obj/Debug/netcoreapp2.0/Debugging.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter04/Debugging/obj/Debug/netcoreapp2.0/Debugging.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter04/Debugging/obj/Debug/netcoreapp2.0/Debugging.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter04/Debugging/obj/Debug/netcoreapp2.0/Debugging.dll
+/home/aguimar/devel/repos/code/chapter04/Debugging/obj/Debug/netcoreapp2.0/Debugging.pdb

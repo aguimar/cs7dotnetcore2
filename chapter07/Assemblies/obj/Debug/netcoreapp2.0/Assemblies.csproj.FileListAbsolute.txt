@@ -1,0 +1,10 @@
+/home/aguimar/devel/repos/code/chapter07/Assemblies/bin/Debug/netcoreapp2.0/Assemblies.deps.json
+/home/aguimar/devel/repos/code/chapter07/Assemblies/bin/Debug/netcoreapp2.0/Assemblies.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter07/Assemblies/bin/Debug/netcoreapp2.0/Assemblies.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter07/Assemblies/bin/Debug/netcoreapp2.0/Assemblies.dll
+/home/aguimar/devel/repos/code/chapter07/Assemblies/bin/Debug/netcoreapp2.0/Assemblies.pdb
+/home/aguimar/devel/repos/code/chapter07/Assemblies/obj/Debug/netcoreapp2.0/Assemblies.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter07/Assemblies/obj/Debug/netcoreapp2.0/Assemblies.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter07/Assemblies/obj/Debug/netcoreapp2.0/Assemblies.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter07/Assemblies/obj/Debug/netcoreapp2.0/Assemblies.dll
+/home/aguimar/devel/repos/code/chapter07/Assemblies/obj/Debug/netcoreapp2.0/Assemblies.pdb

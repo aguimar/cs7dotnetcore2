@@ -1,0 +1,10 @@
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/bin/Debug/netcoreapp2.0/WorkingWithNumbers.deps.json
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/bin/Debug/netcoreapp2.0/WorkingWithNumbers.runtimeconfig.json
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/bin/Debug/netcoreapp2.0/WorkingWithNumbers.runtimeconfig.dev.json
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/bin/Debug/netcoreapp2.0/WorkingWithNumbers.dll
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/bin/Debug/netcoreapp2.0/WorkingWithNumbers.pdb
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/obj/Debug/netcoreapp2.0/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/obj/Debug/netcoreapp2.0/WorkingWithNumbers.AssemblyInfoInputs.cache
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/obj/Debug/netcoreapp2.0/WorkingWithNumbers.AssemblyInfo.cs
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/obj/Debug/netcoreapp2.0/WorkingWithNumbers.dll
+/home/aguimar/devel/repos/code/chapter08/WorkingWithNumbers/obj/Debug/netcoreapp2.0/WorkingWithNumbers.pdb
