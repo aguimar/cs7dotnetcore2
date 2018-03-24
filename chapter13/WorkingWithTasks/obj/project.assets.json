@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aguimar/devel/repos/code/chapter13/WorkingWithTasks/WorkingWithTasks.csproj",
+      "projectUniqueName": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/WorkingWithTasks/WorkingWithTasks.csproj",
       "projectName": "WorkingWithTasks",
-      "projectPath": "/home/aguimar/devel/repos/code/chapter13/WorkingWithTasks/WorkingWithTasks.csproj",
+      "projectPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/WorkingWithTasks/WorkingWithTasks.csproj",
       "packagesPath": "/home/aguimar/.nuget/packages/",
-      "outputPath": "/home/aguimar/devel/repos/code/chapter13/WorkingWithTasks/obj/",
+      "outputPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/WorkingWithTasks/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

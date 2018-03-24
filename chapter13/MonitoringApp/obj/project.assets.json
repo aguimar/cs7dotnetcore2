@@ -686,11 +686,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aguimar/devel/repos/code/chapter13/MonitoringApp/MonitoringApp.csproj",
+      "projectUniqueName": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringApp/MonitoringApp.csproj",
       "projectName": "MonitoringApp",
-      "projectPath": "/home/aguimar/devel/repos/code/chapter13/MonitoringApp/MonitoringApp.csproj",
+      "projectPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringApp/MonitoringApp.csproj",
       "packagesPath": "/home/aguimar/.nuget/packages/",
-      "outputPath": "/home/aguimar/devel/repos/code/chapter13/MonitoringApp/obj/",
+      "outputPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringApp/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -707,8 +707,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/home/aguimar/devel/repos/code/chapter13/MonitoringLib/MonitoringLib.csproj": {
-              "projectPath": "/home/aguimar/devel/repos/code/chapter13/MonitoringLib/MonitoringLib.csproj"
+            "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringLib/MonitoringLib.csproj": {
+              "projectPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringLib/MonitoringLib.csproj"
             }
           }
         }

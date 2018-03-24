@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aguimar/devel/repos/code/chapter13/MonitoringLib/MonitoringLib.csproj",
+      "projectUniqueName": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringLib/MonitoringLib.csproj",
       "projectName": "MonitoringLib",
-      "projectPath": "/home/aguimar/devel/repos/code/chapter13/MonitoringLib/MonitoringLib.csproj",
+      "projectPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringLib/MonitoringLib.csproj",
       "packagesPath": "/home/aguimar/.nuget/packages/",
-      "outputPath": "/home/aguimar/devel/repos/code/chapter13/MonitoringLib/obj/",
+      "outputPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/MonitoringLib/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
