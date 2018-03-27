@@ -1,8 +1,0 @@
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.deps.json
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfoInputs.cache
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfo.cs
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll
-/home/aguimar/devel/repos/code/chapter05/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb
