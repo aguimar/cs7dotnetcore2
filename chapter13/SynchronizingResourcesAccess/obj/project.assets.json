@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/SynchronizingResourcesAccess/SynchronizingResourcesAccess.csproj",
+      "projectUniqueName": "/home/aguimar/devel/repos/code/chapter13/SynchronizingResourcesAccess/SynchronizingResourcesAccess.csproj",
       "projectName": "SynchronizingResourcesAccess",
-      "projectPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/SynchronizingResourcesAccess/SynchronizingResourcesAccess.csproj",
+      "projectPath": "/home/aguimar/devel/repos/code/chapter13/SynchronizingResourcesAccess/SynchronizingResourcesAccess.csproj",
       "packagesPath": "/home/aguimar/.nuget/packages/",
-      "outputPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/SynchronizingResourcesAccess/obj/",
+      "outputPath": "/home/aguimar/devel/repos/code/chapter13/SynchronizingResourcesAccess/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

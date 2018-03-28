@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/NestedAndChildTasks/NestedAndChildTasks.csproj",
+      "projectUniqueName": "/home/aguimar/devel/repos/code/chapter13/NestedAndChildTasks/NestedAndChildTasks.csproj",
       "projectName": "NestedAndChildTasks",
-      "projectPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/NestedAndChildTasks/NestedAndChildTasks.csproj",
+      "projectPath": "/home/aguimar/devel/repos/code/chapter13/NestedAndChildTasks/NestedAndChildTasks.csproj",
       "packagesPath": "/home/aguimar/.nuget/packages/",
-      "outputPath": "/home/aguimar/devel/repos/cs7dotnetcore2/chapter13/NestedAndChildTasks/obj/",
+      "outputPath": "/home/aguimar/devel/repos/code/chapter13/NestedAndChildTasks/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
