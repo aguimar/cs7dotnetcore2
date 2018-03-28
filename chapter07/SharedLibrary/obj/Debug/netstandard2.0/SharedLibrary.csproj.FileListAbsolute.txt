@@ -1,8 +1,0 @@
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.deps.json
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.dll
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/bin/Debug/netstandard2.0/SharedLibrary.pdb
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.csproj.CoreCompileInputs.cache
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.AssemblyInfoInputs.cache
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.AssemblyInfo.cs
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.dll
-/home/aguimar/devel/repos/code/chapter07/SharedLibrary/obj/Debug/netstandard2.0/SharedLibrary.pdb

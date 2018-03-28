@@ -1,8 +1,0 @@
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.deps.json
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.dll
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/bin/Debug/netstandard2.0/CryptographyLib.pdb
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.csproj.CoreCompileInputs.cache
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfoInputs.cache
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.AssemblyInfo.cs
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.dll
-/home/aguimar/devel/repos/code/chapter10/CryptographyLib/obj/Debug/netstandard2.0/CryptographyLib.pdb
