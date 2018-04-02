@@ -12,4 +12,9 @@
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NorthwindContextLib\NorthwindContextLib.csproj" />
+    <ProjectReference Include="..\NorthwindEntitiesLib\NorthwindEntitiesLib.csproj" />
+  </ItemGroup>
+
 </Project>

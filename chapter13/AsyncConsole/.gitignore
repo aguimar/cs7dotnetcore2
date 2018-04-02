@@ -37,7 +37,3 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
-
-Part3/NorthwindMvc/bower_components/
-
-Part3/NorthwindMvc/wwwroot/lib/
