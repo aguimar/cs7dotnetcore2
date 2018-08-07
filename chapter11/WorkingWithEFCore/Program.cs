@@ -173,8 +173,8 @@ namespace WorkingWithEFCore
         static void Main(string[] args)
         {
             //QueryingCategories();
-            //QueryingProducts();
-            QueryingWithLike();
+            QueryingProducts();
+            //QueryingWithLike();
 
             //AddProduct(6, "Bob's Burguers", 500M);
             //IncreaseProductPrice("Bob", 20M);
